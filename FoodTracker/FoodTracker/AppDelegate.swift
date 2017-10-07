@@ -8,10 +8,10 @@
 
 import UIKit
 
-@UIApplicationMain
+@UIApplicationMain //create the entry point to your app and a run loop that delivers input events to app.
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    var window: UIWindow?
+    var window: UIWindow? //store a reference to the app's window
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
