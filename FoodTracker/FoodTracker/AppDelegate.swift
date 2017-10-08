@@ -2,16 +2,16 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by Xinqiao Wei on 9/27/17.
-//
+//  Created by Jane Appleseed on 10/17/16.
+//  Copyright © 2016 Apple Inc. All rights reserved.
 //
 
 import UIKit
 
-@UIApplicationMain //create the entry point to your app and a run loop that delivers input events to app.
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    var window: UIWindow? //store a reference to the app's window
+    var window: UIWindow?
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
