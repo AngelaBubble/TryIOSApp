@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:FoodTracker.xcodeproj">
+      location = "group:/Users/bubble/Documents/GitHub/TryIOSApp/FoodTracker/FoodTracker/Assets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
