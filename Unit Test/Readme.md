@@ -7,6 +7,9 @@ sample iOS project).
 I have tested it on 45 devices and environment and they all passed.
 ![alt text](https://raw.githubusercontent.com/WeiXinqiao/TryIOSApp/master/Unit%20Test/total.png)
 
+Here are all the devices and IOS:
+![alt text](https://raw.githubusercontent.com/WeiXinqiao/TryIOSApp/master/Unit%20Test/devices.png)
+
 I have picked the one for Iphone 7 with IOS 10.0.2.
 
 There is a sample video in the file, called sample video. And there are also the log.
